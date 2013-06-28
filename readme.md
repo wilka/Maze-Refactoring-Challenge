@@ -1,7 +1,7 @@
 Refactoring Challenge
 =====================
 
-This is a C# port of the [Java port](http://www.mindspring.com/~alanh/refactoring/challenge.html) of the BASIC code from "BASIC Computer Games, TRS-80 Edition" by David H. Ahl, �1979"
+This is a C# port of the [Java port](http://www.mindspring.com/~alanh/refactoring/challenge.html) of the BASIC code from "BASIC Computer Games, TRS-80 Edition" by David H. Ahl, (c)1979"
 
 The Java port was done by [Alan Hensel](http://www.mindspring.com/~alanh/) and was a lot more effort than my simple C# version, so he deserves the credit for this.
 
